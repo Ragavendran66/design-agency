@@ -1,0 +1,19 @@
+.theme-dark {
+  --black: #080808;
+  --white: #F5F2EC;
+  --grey: #1A1A1A;
+  --grey-mid: #2E2E2E;
+  --grey-light: #6B6B6B;
+}
+
+.theme-light {
+  --black: #F5F2EC;
+  --white: #0A0A0A;
+  --grey: #E8E4DC;
+  --grey-mid: #D0CBB8;
+  --grey-light: #888880;
+}
+
+.app {
+  min-height: 100vh;
+}
